@@ -429,7 +429,7 @@ h1 {
   position: relative; }
 
 .summary:before {
-  background-image: url("../images/mercury-transparent.png");
+  background-image: url("images/mercury-transparent.png");
   background-size: 150px 150px;
   background-repeat: no-repeat;
   content: '';
@@ -452,7 +452,7 @@ h1 {
   position: relative; }
 
 .preamble:before {
-  background-image: url("../images/venus-transparent.png");
+  background-image: url("images/venus-transparent.png");
   background-size: 150px 150px;
   background-repeat: no-repeat;
   content: '';
@@ -475,7 +475,7 @@ h1 {
   position: relative; }
 
 .explanation:before {
-  background-image: url("../images/earth-transparent.png");
+  background-image: url("images/earth-transparent.png");
   background-size: 150px 150px;
   background-repeat: no-repeat;
   content: '';
@@ -498,7 +498,7 @@ h1 {
   position: relative; }
 
 .participation:before {
-  background-image: url("../images/mars-transparent.png");
+  background-image: url("images/mars-transparent.png");
   background-size: 150px 150px;
   background-repeat: no-repeat;
   content: '';
@@ -521,7 +521,7 @@ h1 {
   position: relative; }
 
 .benefits:before {
-  background-image: url("../images/jupiter-transparent.png");
+  background-image: url("images/jupiter-transparent.png");
   background-size: 150px 150px;
   background-repeat: no-repeat;
   content: '';
@@ -545,7 +545,7 @@ h1 {
   margin-bottom: 0; }
 
 .requirements:before {
-  background-image: url("../images/saturn-transparent.png");
+  background-image: url("images/saturn-transparent.png");
   background-size: 150px 150px;
   background-repeat: no-repeat;
   content: '';
